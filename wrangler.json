@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "detest",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7b0171aa-a400-46ca-94ae-92cd941a3fae",
+      "database_name": "my-test-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
